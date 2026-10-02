@@ -10,7 +10,7 @@ The recommended way to setup your development environment is to use Anaconda:
 
 3. Create a new environment for this course:
 
-`conda create --name ml2 python=3.8`
+`conda create --name ml2 python=3.11`
 
 4. Activate this environment:
 
